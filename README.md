@@ -2,8 +2,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERNSTACK
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  Linkedin: linkedin.com/in/nikhil-bhoyar-b041931b8
+-  Linkedin: linkedin.com/in/nikhil-bhoyar-b041931b8
 - Gmail:bhoyarnikhil683@gmail.com
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/your_instagram_username/](https://www.instagram.com/_bhoyar_nick?igsh=MW9qN3VwbmptcGxwcA==))
 
 
 <!---
